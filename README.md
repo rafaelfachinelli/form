@@ -31,7 +31,7 @@
 ---
 ## :computer: Sobre
 
-...
+Este projeto é utlizado para estudo e desenvolvimento de programação em input para formulários.
 
 ---
 ## :memo: **Roteiro**
