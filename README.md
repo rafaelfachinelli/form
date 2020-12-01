@@ -31,7 +31,7 @@
 ---
 ## :computer: Sobre
 
-Este projeto é utlizado para estudo e desenvolvimento de programação em input para formulários.
+An register form to validate inputs using HTML, CSS and JavaScript.
 
 ---
 ## :memo: **Roteiro**
