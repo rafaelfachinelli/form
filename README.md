@@ -6,30 +6,29 @@
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/form?color=2980b9&style=for-the-badge">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/form?color=2980b9&style=for-the-badge">
   <a href="https://github.com/rafaelfachinelli">
-    <img alt="Feito por Rafael Fachinelli" src="https://img.shields.io/badge/Desenvolvedor-Rafael_Fachinelli-%2980b9?color=2980b9&style=for-the-badge">
+    <img alt="Feito por Rafael Fachinelli" src="https://img.shields.io/badge/Developer-Rafael_Fachinelli-%2980b9?color=2980b9&style=for-the-badge">
   </a>
   <img alt="Licença do Projeto" src="https://img.shields.io/github/license/rafaelfachinelli/form?color=2980b9&style=for-the-badge"/>
 <p>
 
 <p align="center">
- <a href="#movie_camera-demonstração">Demonstração</a> •
- <a href="#computer-sobre">Sobre</a> •
-   <a href="#video_game-controles">Controles</a> •
+ <a href="#movie_camera-view">View</a> •
+ <a href="#computer-about">About</a> •
  <a href="#memo-roteiro">Roteiro</a> •
- <a href="#hammer-tecnologias">Tecnologias</a> •
+ <a href="#hammer-tecnologies">Tecnologies</a> •
  <a href="#boy-autor">Autor</a> •
- <a href="#page_facing_up-licença">Licença</a>
+ <a href="#page_facing_up-license">License</a>
 </p>
 
 ---
-## :movie_camera: **Demonstração**
+## :movie_camera: **View**
 
 <p align="center">
   <kbd><img alt="Form" src="./.github/desktop_demo.png"/></kbd>
 <p>
   
 ---
-## :computer: Sobre
+## :computer: About
 
 An register form to validate inputs using HTML, CSS and JavaScript.
 
@@ -48,7 +47,7 @@ An register form to validate inputs using HTML, CSS and JavaScript.
 </div>
 
 ---
-## :hammer: **Tecnologias**
+## :hammer: **Tecnologies**
 
 As seguintes ferramentas foram utilizadas na construção do projeto:
 
@@ -83,11 +82,11 @@ Feito com ❤️ por Rafael Fachinelli 👋🏽 Entre em contato!
 </div>
 
 ---
-## :page_facing_up: **Licença**
+## :page_facing_up: **License**
 
 <div align="center">
 
 Copyright © 2020 [Rafael Fachinelli](https://github.com/rafaelfachinelli).<br />
-Este projeto é licenciado pelo [MIT](./LICENSE).
+This project is licensed by [MIT](./LICENSE).
 
 </div>
