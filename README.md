@@ -14,7 +14,7 @@
 <p align="center">
  <a href="#movie_camera-view">View</a> •
  <a href="#computer-about">About</a> •
- <a href="#memo-roteiro">Roteiro</a> •
+ <a href="#memo-schema">Schema</a> •
  <a href="#hammer-tecnologies">Tecnologies</a> •
  <a href="#boy-autor">Autor</a> •
  <a href="#page_facing_up-license">License</a>
@@ -33,14 +33,14 @@
 An register form to validate inputs using HTML, CSS and JavaScript.
 
 ---
-## :memo: **Roteiro**
+## :memo: **Schema**
 
 <div align="center">
 <details>
-<summary>Clique para Visualizar</summary>
+<summary>Click to View</summary>
 
-|      Estado      |     Tarefa    |
-|      :---:       |      :---     |
+|State|Task|
+|:---:|:---|
 |||
 
 </details>
@@ -49,7 +49,7 @@ An register form to validate inputs using HTML, CSS and JavaScript.
 ---
 ## :hammer: **Tecnologies**
 
-As seguintes ferramentas foram utilizadas na construção do projeto:
+The following tecnologies has used to develop this project:
 
 <div align="center">
 
