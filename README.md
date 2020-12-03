@@ -41,7 +41,11 @@ An register form to validate inputs using HTML, CSS and JavaScript.
 
 |State|Task|
 |:---:|:---|
-|||
+||HTML Basic Structure|
+||HTML Initial Inputs|
+||CSS Initial Style|
+||JavaScript validate logic|
+||JavaScript submit logic|
 
 </details>
 </div>
