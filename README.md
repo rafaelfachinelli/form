@@ -76,7 +76,7 @@ The following tecnologies has used to develop this project:
  <sub><b>Rafael Fachinelli</b></sub></a>
 
 
-Feito com ❤️ por Rafael Fachinelli 👋🏽 Entre em contato!
+Developed with ❤️ by Rafael Fachinelli 👋🏽 Touch in contact!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael_Fachinelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelfachinelli/)](https://www.linkedin.com/in/rafaelfachinelli/)
 [![Github Badge](https://img.shields.io/badge/-rafaelfachinelli-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaelfachinelli)](https://github.com/rafaelfachinelli)
