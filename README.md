@@ -12,7 +12,7 @@
 <p>
 
 <p align="center">
- <a href="#movie_camera-view">View</a> •
+ <a href="#movie_camera-demo">Demo</a> •
  <a href="#computer-about">About</a> •
  <a href="#memo-schema">Schema</a> •
  <a href="#hammer-tecnologies">Tecnologies</a> •
@@ -21,7 +21,7 @@
 </p>
 
 ---
-## :movie_camera: **View**
+## :movie_camera: **Demo**
 
 <p align="center">
   <kbd><img alt="Form" src="./.github/desktop_demo.png"/></kbd>
