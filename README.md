@@ -16,7 +16,7 @@
  <a href="#computer-about">About</a> •
  <a href="#memo-schema">Schema</a> •
  <a href="#hammer-tecnologies">Tecnologies</a> •
- <a href="#boy-autor">Autor</a> •
+ <a href="#boy-author">Author</a> •
  <a href="#page_facing_up-license">License</a>
 </p>
 
@@ -66,7 +66,7 @@ The following tecnologies has used to develop this project:
 </div>
 
 ---
-## :boy: **Autor**
+## :boy: **Author**
 
 <div align="center">
 
