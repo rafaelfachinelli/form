@@ -90,7 +90,7 @@ Developed with ❤️ by Rafael Fachinelli 👋🏽 Touch in contact!
 
 <div align="center">
 
-Copyright © 2020 [Rafael Fachinelli](https://github.com/rafaelfachinelli).<br />
+Copyright © 2021 [Rafael Fachinelli](https://github.com/rafaelfachinelli).<br />
 This project is licensed by [MIT](./LICENSE).
 
 </div>
