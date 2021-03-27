@@ -78,8 +78,7 @@ The following tecnologies has used to develop this project:
 ## :page_facing_up: **License**
 
 <div align="center">
-
-Copyright © 2021 [Rafael Fachinelli](https://github.com/rafaelfachinelli).<br />
-This project is licensed by [MIT](./LICENSE).
+  
+[![License](https://github.com/rafaelfachinelli/rafaelfachinelli/blob/master/.github/license.svg)](./LICENSE)
 
 </div>
